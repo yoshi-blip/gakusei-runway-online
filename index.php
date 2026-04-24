@@ -1,6 +1,6 @@
   GNU nano 7.2                                                                                                        index.php                                                                                                                 
 <?php
-echo "GitHub連携成功！";
+echo "TEST1";
 
 
 
